@@ -1,2 +1,2 @@
 # ccgarrison.github.io
-Beginning journey to code to becoming a pro
+Beginning journey in coding to becoming a pro
