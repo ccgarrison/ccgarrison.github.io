@@ -3,4 +3,4 @@ Beginning journey in coding to becoming a pro
 ## My Eyes Repo
 <a href = "http://ccgarrison.github.io/Eyes"> EYES</a>
 ## My Bus Tracker Repo
-<a href = "http://ccgarrison.github.io/BusTrak> Bus Tracker</a>
+<a href = "http://ccgarrison.github.io/BusTrac"> Bus Tracker</a>
