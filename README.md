@@ -9,4 +9,4 @@ Beginning journey in coding to becoming a pro
 ## My First YouTube video
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=https://youtu.be/tphqLfwlQn4
 " target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="Repo Invite Video" width="240" height="180" border="10" /></a>
