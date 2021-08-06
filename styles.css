@@ -4,6 +4,20 @@ body  #grad {
         background-image: linear-gradient(to right, #1c87c9, #8ebf42);
       }
 
+.grid-container {
+        display: grid;
+        grid-template-columns: auto auto auto;
+        background-color: light blue;
+        padding: 10px;
+}
+.grid-item {
+        background-color: white;
+        border: 1px solid blue;
+        padding: 20px;
+        font-size: 20px;
+        text-align: center;
+}
+                  
 
 h1 {
   color: blue;
