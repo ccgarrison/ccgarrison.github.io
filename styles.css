@@ -8,8 +8,10 @@ body  #grad {
 h1 {
   color: blue;
 }
-a:link {
-  color: green;
-}
-b:link {
-  color: orange:
+a.one: link {color: green;}
+a.one: visited {color: orange;}
+a.one: hover {color: blue;}
+
+a.two: link {color: green;}
+a.two: visited {color: orange;}
+a.two: hover {color: blue;}
